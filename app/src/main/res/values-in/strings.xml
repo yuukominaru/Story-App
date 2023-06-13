@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storygram</string>
+
+    <!--LoginActivity & SignupActivity-->
+    <string name="login">Masuk</string>
+    <string name="email">E-mail</string>
+    <string name="password">Kata Sandi</string>
+    <string name="submit">Masukkan</string>
+    <string name="redirect_sign_up">Tidak punya akun? Daftar di sini!</string>
+
+    <string name="name">Nama</string>
+    <string name="sign_up">Daftar</string>
+    <string name="redirect_login">Sudah punya akun? Masuk di sini.</string>
+
+    <string name="null_name">Nama tidak boleh kosong</string>
+    <string name="null_email">E-mail tidak boleh kosong</string>
+    <string name="null_password">Kata sandi tidak boleh kosong</string>
+    <string name="null_token">Null Token (E-mail/Kata Sandi tidak sama)</string>
+    <string name="invalid_email">Alamat E-mail tidak valid</string>
+    <string name="success_login">Berhasil masuk. Selamat datang, %s!</string>
+    <string name="success_signup">Daftar berhasil. Cobalah masuk ke dalam akun.</string>
+    <string name="login_failed">Gagal Masuk</string>
+    <string name="minimal_characters">Kata sandi harus memiliki minimal 8 karakter</string>
+
+    <!--MainActivity-->
+    <string name="logout">Keluar</string>
+    <string name="language">Ganti Bahasa</string>
+    <string name="error_fetch">Error dalam Mengambil Story</string>
+    <string name="success_logout">Berhasil Keluar</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="refresh">Perbaharui</string>
+
+    <!--DetailActivity & UploadActivity-->
+    <string name="story_image">Gambar Story</string>
+    <string name="users_name">Nama User</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="choose_pic">Pilih Gambar</string>
+    <string name="permission_denied">Izin Tidak Diberikan</string>
+    <string name="null_desc">Deskripsi tidak boleh kosong</string>
+    <string name="retrofit_fail">Gagal Instansi Retrofit</string>
+    <string name="insert_img">Masukkan gambar</string>
+    <string name="upload_pic">Unggah Gambar</string>
+
+    <string name="retry">Coba Lagi</string>
+
+    <string name="location">Lokasi Pengguna</string>
+    <string name="explore">Telusuri</string>
+    <string name="null_location">Lokasi Tidak Diketahui</string>
+    <string name="information">Informasi</string>
+    <string name="detail_information">
+        Pada halaman ini, kamu dapat melihat lokasi story dari pengguna lain.
+        Kamu juga dapat membuka story mereka dengan mengklik marker dan panel informasinya.
+        \nCoba klik sekarang!
+    </string>
+    <string name="okay">Ok</string>
+    <string name="add_location">Tambah Lokasi</string>
+    <string name="story_location">Lokasi Story</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="select_location">Pilih Lokasi</string>
+    <string name="select_desc">Kamu juga dapat memilih lokasi lainnya dengan mengklik peta dan menekan panel informasinya.</string>
+    <string name="cancel">Batalkan</string>
+    <string name="unknown_pin">Pin Tidak Diketahui</string>
+</resources>

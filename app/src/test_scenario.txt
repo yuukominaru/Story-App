@@ -1,0 +1,14 @@
+Unit Testing pada MainViewModelTest
+Ketika berhasil memuat data:
+- Data tidak null
+- Jumlah data sesuai yang diharapkan
+- Data pertama yang dikembalikan sesuai
+
+Ketika data tidak ada:
+- Data yang dikembalikan adalah 0
+
+===
+
+Instrument Testing pada StoryRemoteMediatorTest
+Ketika terdapat data baru:
+- Refresh load mengembalikan 'success'

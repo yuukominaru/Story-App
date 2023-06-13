@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Storygram</string>
+
+    <!--LoginActivity & SignupActivity-->
+    <string name="login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="redirect_sign_up">Don\'t have an account? Sign up here!</string>
+
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="redirect_login">Already have an account? Login here</string>
+
+    <string name="null_name">Name cannot be empty</string>
+    <string name="null_email">E-mail cannot be empty</string>
+    <string name="null_password">Password cannot be empty</string>
+    <string name="null_token">Null Token (E-mail/Password not matched)</string>
+    <string name="invalid_email">Invalid E-mail Address</string>
+    <string name="success_login">Login Successful. Welcome %s!</string>
+    <string name="success_signup">Sign Up Successful. Try logging into your account.</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="minimal_characters">Password must contain minimal 8 characters</string>
+
+    <!--MainActivity-->
+    <string name="logout">Logout</string>
+    <string name="language">Change Language</string>
+    <string name="error_fetch">Error Fetching Stories</string>
+    <string name="success_logout">Logout successful</string>
+    <string name="add_story">Add Story</string>
+    <string name="refresh">Refresh</string>
+    <string name="explore">Explore</string>
+
+    <!--DetailActivity & UploadActivity-->
+    <string name="story_image">Story Image</string>
+    <string name="users_name">User\'s name</string>
+
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="choose_pic">Choose a Picture</string>
+    <string name="permission_denied">Permission Not Granted</string>
+    <string name="null_desc">Description cannot be empty</string>
+    <string name="retrofit_fail">Retrofit Instance Failed</string>
+    <string name="insert_img">Please insert an image</string>
+    <string name="upload_pic">Upload a Picture</string>
+    <string name="location">User\'s Location</string>
+
+    <string name="retry">Retry</string>
+
+    <!--MapsActivity & LocationActivity-->
+    <string name="null_location">Location Unknown</string>
+    <string name="information">Information</string>
+    <string name="detail_information">
+        In this page, you can see other people\'s story location.
+        You can also open their story by clicking their marker and their information window.
+        \nTry clicking it now!
+    </string>
+    <string name="okay">Okay</string>
+    <string name="add_location">Add Location</string>
+    <string name="story_location">Story Location</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="select_location">Select Location</string>
+    <string name="select_desc">You can also pick other location by clicking on the map and pressing the information window.</string>
+    <string name="cancel">Cancel</string>
+    <string name="unknown_pin">Unknown Pin</string>
+    <string name="null_marker">Please Select A Location</string>
+    <string name="clear_location_button">Clear Location Button</string>
+</resources>
